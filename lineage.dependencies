@@ -1,7 +1,7 @@
 [
   {
     "remote"     : "github",
-    "repository" : "ilurell/android_device_xiaomi_msm8996-common",
+    "repository" : "ilurell-android/android_device_xiaomi_msm8996-common",
     "target_path": "device/xiaomi/msm8996-common",
     "branch"     : "10.0"
   },
